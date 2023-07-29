@@ -1,0 +1,11 @@
+[package]
+name = "hayvore"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sheroz Khaydarov"]
+description = "Hayvore Platform"
+documentation = "https://docs.rs/hayvore"
+readme = "README.md"
+repository = "https://github.com/sheroz/hayvore"
+license = "MIT"
+
