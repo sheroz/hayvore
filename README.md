@@ -1,4 +1,4 @@
-# Hayvore Platform
+# Hayvore Messaging System
 
 [![crates.io](https://img.shields.io/crates/v/hayvore)](https://crates.io/crates/hayvore)
 [![docs](https://img.shields.io/docsrs/hayvore)](https://docs.rs/hayvore)
